@@ -4,6 +4,8 @@
 #include <stdexcept>
 #include <iostream>
 
+#include <stdint.h>
+
 #include "framebuffer.h"
 
 // using namespace std;
